@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.Operators;
 
 public class arithimeticChallenge {
   public static void main(String[] args) {
@@ -20,5 +20,7 @@ public class arithimeticChallenge {
 
     double result = superior / inferior;
     System.out.println("The Result is => " + result);
+
+
   }
 }

@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.Operators;
 
 public class Arithmetics {
   public static void main(String[] args) {

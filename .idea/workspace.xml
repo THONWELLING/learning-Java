@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Arithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/ChallengeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/CircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/FahrenheitToCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Inference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/PointNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimitivesTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/StringToNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/StringType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/arithimeticChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/primeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Operators/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Operators/LogicalChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/Arithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Operators/Arithmetics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/arithimeticChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Operators/arithimeticChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
