@@ -10,6 +10,24 @@ public class Data {
   int mes;
   int ano;
 
+  /*Desafio construtor
+  * Este desafio consiste em criar o contrutor padrão e também um constyrutor que recebe parâmetros
+  * quando o construtor padrão for chamado ele vai retornar a data 01/01/1970.
+  *
+  * */
+
+  Data() {
+    dia = 1;
+    mes = 1;
+    ano = 1970;
+  }
+
+  Data(int diaInicial, int mesInicial, int anoInicial) {
+    dia = diaInicial;
+    mes = mesInicial;
+    ano = anoInicial;
+  }
+
   /*Desafio Método
   * Este desafio consiste em criar um método que retorne a data já formatada
   * */
