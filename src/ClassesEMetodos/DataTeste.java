@@ -4,7 +4,7 @@ public class DataTeste {
   public static void main(String[] args) {
 
     Data d1 = new Data(); // aqui retorna a data setada no método do arquivo Data
-    //Para modificar algum valor  podemos declarar aqui abaixo ex vamos mudar o ano para 2024
+    //Para modificar algum valor podemos declarar aqui abaixo ex: vamos mudar o ano para 2024
 
     d1.ano = 2024;
 
