@@ -9,4 +9,11 @@ public class Data {
   int dia;
   int mes;
   int ano;
+
+  /*Desafio Método
+  * Este desafio consiste em criar um método que retorne a data já formatada
+  * */
+  String obterDataFormatada() {
+    return String.format("%d/%d/%d\n", dia, mes, ano);
+  }
 }
