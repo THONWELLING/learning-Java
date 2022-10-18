@@ -20,7 +20,8 @@ public class UmaChamadaRecursiva {
 
     Scanner numero = new Scanner(System.in);
 
-    //TODO: Imprima o somatório de N (utilize o método "somatorio").
+    /* TODO: Imprima o somatório de N (utilize o método "somatorio").*/
+
     int N = numero.nextInt();
     System.out.println(somatorio(N));
   }
