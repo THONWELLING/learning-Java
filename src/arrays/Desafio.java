@@ -21,6 +21,7 @@ public class Desafio {
     int quantNotas = entrada.nextInt();
 
     double[] notas = new double[quantNotas];
+
     for (int i = 0; i < notas.length; i++) {
       System.out.println("informe a nota " + (i + 1) + ": ");
       notas[i] = entrada.nextDouble();
