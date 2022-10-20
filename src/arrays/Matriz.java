@@ -33,6 +33,7 @@ public class Matriz {
     /*Para percorrer a Matriz colocando as notas
     * Vamo usar o for aninhado onde o for externo vai percorrer o array de alunos
     * e o for mais interno vai percorrer as notas de cada aluno */
+
     for (int aluno = 0; aluno < notasDaTurma.length; aluno++) {
       for (int nota = 0; nota < notasDaTurma[aluno].length; nota++) {
 
