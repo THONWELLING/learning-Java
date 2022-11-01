@@ -3,9 +3,11 @@ package colecoes;
 import java.util.HashSet;
 import java.util.Set;
 
-/*Essa forma de implementar um conjunto não é uma boa prática por que estamos usando
+/*
+Essa forma de implementar um conjunto não é uma boa prática por que estamos usando
 um conjunto de dados Heterogeneo(vários tipos diferentes). A boa prática é usar um conjunto
-de dados Homogeneo(do mesmo tipo)*/
+de dados Homogeneo(do mesmo tipo)
+*/
 
 @SuppressWarnings("ALL")
 public class ConjuntoBaguncado {
@@ -13,8 +15,10 @@ public class ConjuntoBaguncado {
 
     HashSet conjunto  = new HashSet();
 
-    /*O HashSet não aceita tipos primitivos. Logo, os tipos primitivos abaixo serão convertidos
-    * automaticamente para o Wrapper/Classe */
+    /*
+     * O HashSet não aceita tipos primitivos. Logo, os tipos primitivos abaixo serão convertidos
+     * automaticamente para o Wrapper/Classe
+    */
 
     conjunto.add(1.2); //double para Double
     conjunto.add(true); // boolean para Boolean
@@ -46,20 +50,21 @@ public class ConjuntoBaguncado {
     System.out.println("Valores da collection conjunto => " + conjunto);//Colection ja implementam a forma de mostram isso como string
 
     /*            Intersecção entre dois conjuntos usamos o retainAll()
-    * Retem apenas os elementos que são comuns entre as 2 colections
-    * */
+     * Retem apenas os elementos que são comuns entre as 2 colections
+    */
     conjunto.retainAll(nums);
     System.out.println("Intersecção entre as colections => " + conjunto);
 
        /*               Para unir os conjuntos usamos o addAll()
     * selecionamos a colection e mandamos adicionar a outra
-    colection dentro isso muda o valor da colection conjunto
+    * colection dentro isso muda o valor da colection conjunto
     */
     conjunto.addAll(nums);
     System.out.println("Colection unida => " + conjunto);// mostrando o novo valor da colection conjunto
 
     /*                    Para limpar tudo usamos o clear()
-    * Limpa totalmente a colection deixando-a vazia*/
+    * Limpa totalmente a colection deixando-a vazia
+    */
     conjunto.clear();
     System.out.println("Comando Clear => " + conjunto);
   }
