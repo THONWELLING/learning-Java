@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/umxmuitos/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/umxmuitos/CompraTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/umxmuitos/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/muitospramuitos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/muitospramuitos/ClienteTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/composicao/muitospramuitos/Vendedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/composicao/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/composicao/umxum/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/composicao/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/composicao/umxum/CarroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/composicao/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/composicao/umxum/Motor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
