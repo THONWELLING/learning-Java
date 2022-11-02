@@ -1,4 +1,4 @@
-package oo.composicao;
+package oo.composicao.umxum;
 
 public class CarroTeste {
   public static void main(String[] args) {
