@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Direcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
