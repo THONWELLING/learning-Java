@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/Vilao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/Ferrari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/Jogo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
