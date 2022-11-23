@@ -8,8 +8,8 @@ package oo.heranca.desafioheranca;
 * o método freiar decrementa de 5 em 5 km/hora
 * na classe específica Ferrari ela não vai acelerar de 5 em 5 mais sim de 15 em 15km/h*/
 public class Carro {
-
   int velocidadeAtual;
+
 
   void frear() {
     if (velocidadeAtual >= 5 ) {
