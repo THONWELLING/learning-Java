@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/encapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/encapsulamento/PessoaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Carro2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Carro2Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Civic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/heranca/desafio2/Ferrari2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Arroz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Feijao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/polimorfismo/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/ClassificandoMatrizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/FatorialDasajeitdo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/Palindromos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/QuadradosPerfeitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafios/ValidaParenteses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oo/heranca/desafioheranca/Carro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
