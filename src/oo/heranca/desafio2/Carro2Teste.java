@@ -15,6 +15,7 @@ public class Carro2Teste {
     System.out.println(carro1);
 
     Ferrari2 carro2 = new Ferrari2(400);
+    carro2.ligarTurbo();
     carro2.acelerar();
     System.out.println(carro2);
     carro2.acelerar();
