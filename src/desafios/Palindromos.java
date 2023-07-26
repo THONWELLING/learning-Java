@@ -22,16 +22,14 @@ import java.util.Scanner;
 public class Palindromos {
   public static void main(String[] args) {
 
-    Scanner sc = new Scanner(System.in);
-    String palavra = sc.nextLine();
-
-    String palavraInversa = "";
-    String[] letras = palavra.split("");
-    for (int i = letras.length - 1; i >= 0; i--) {
-      palavraInversa = letras[i] + palavraInversa;
+    int y;
+    for (int i = 1; i < 10; i++){
+      y = 2 * i;
+      if(3 < i){
+        i++;
+      }
+      System.out.println(y - i);
     }
-
-    System.out.println(palavraInversa.equals(palavra) ? "TRUE"
-        : "FALSE");
   }
+
 }
