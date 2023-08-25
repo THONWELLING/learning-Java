@@ -1,6 +1,6 @@
 package AreaDeTriangulos;
 
-import AreaDeTriangulos.entities.Triengle;
+import AreaDeTriangulos.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -10,9 +10,9 @@ public class Program {
     Locale.setDefault(Locale.US);
 
     Scanner scanner = new Scanner(System.in);
-    Triengle x, y;
-    x = new Triengle();
-    y = new Triengle();
+    Triangle x, y;
+    x = new Triangle();
+    y = new Triangle();
 
 
     System.out.println("Enter the meassures of triangle X: ");
