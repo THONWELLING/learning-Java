@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecc4a1d-3aba-4190-8b0d-df7f98a189bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ProdutosFuncoes/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProdutosFuncoes/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaDeTriangulos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaDeTriangulos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaDeTriangulos/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaDeTriangulos/entities/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,20 @@
       <recent name="oo.heranca.desafio2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.ProdutosFuncoes.Program">
+    <configuration name="ProdutosFuncoes.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProdutosFuncoes.Program" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProdutosFuncoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaDeTriangulos.Program" />
       <module name="exercicios" />
@@ -81,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdutosFuncoes.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Validation" />
       </list>
